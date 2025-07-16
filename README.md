@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhinav</h1>
 <h3 align="center">A data and stats nerd</h3>
 
-- 🔭 I’m currently working on **refining my Python and SQL skills on Python and SQL**
-- 🌱 I’m currently learning **Google Cloud Services, Kafka**
-- 💬 Ask me about **AWS, Snowflake and Spark**
+- 🔭 I’m currently working at **EOG Resources** as a **Data Engineer**
+- 🌱 I’m currently learning **NLP model finetuning**
+- 💬 Ask me about **AWS, LLMOps, Data Pipelines**
 - 📫 How to reach me **abhinavpannala@gmail.com**
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavpannala&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavpannala" /> </p>
